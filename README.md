@@ -68,3 +68,24 @@
 [OneDrive](https://1drv.ms/u/s!AgmDIEfscAJwi4BdZsL4xG_fnXoISw?e=a5pGHf)
 
 [BaiduYun](https://pan.baidu.com/s/1FOS4YCPc37aBkFKSK64_-w): password = mcmj 
+
+## ECAI 2020 Paper Complete
+[OneDrive](https://1drv.ms/b/s!AgmDIEfscAJwi4Bmn0-it7RbzlpGyQ?e=j9dlb3)
+
+## ECAI 2016 Paper Complete
+[OneDrive](https://1drv.ms/b/s!AgmDIEfscAJwi4BkZtR3qYowIQy8TA?e=ntIg6T)
+
+## ECAI 2014 Paper Complete
+[OneDrive](https://1drv.ms/b/s!AgmDIEfscAJwi4Bl5wL8zeGaZwUAcA?e=QetLfa)
+
+## ECAI 2012 Paper Complete
+[OneDrive](https://1drv.ms/b/s!AgmDIEfscAJwi4BipB82aSf4zpjLsg?e=GdT9oq)
+
+## ECAI 2010 Paper Complete
+[OneDrive](https://1drv.ms/b/s!AgmDIEfscAJwi4Bj2TIAUdvIrLulMw?e=hIMFJ9)
+
+## ECAI 2008 Paper Complete
+[OneDrive](https://1drv.ms/b/s!AgmDIEfscAJwi4Bgv0y4uRIta2h_iA?e=fCKXhH)
+
+## ECAI 2006 Paper Complete
+[OneDrive](https://1drv.ms/b/s!AgmDIEfscAJwi4BhilnOjfFWXUUZVw?e=9gHrU5)

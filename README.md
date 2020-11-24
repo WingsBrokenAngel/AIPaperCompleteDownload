@@ -72,20 +72,35 @@
 ## ECAI 2020 Paper Complete
 [OneDrive](https://1drv.ms/b/s!AgmDIEfscAJwi4Bmn0-it7RbzlpGyQ?e=j9dlb3)
 
+[BaiduYun](https://pan.baidu.com/s/1PAC0jP2-oBvMok65fzIFJg): password = q9m7
+
 ## ECAI 2016 Paper Complete
 [OneDrive](https://1drv.ms/b/s!AgmDIEfscAJwi4BkZtR3qYowIQy8TA?e=ntIg6T)
+
+[BaiduYun](https://pan.baidu.com/s/1PxpLBBBWmH2RiYUKdbJTew): password = fvqp
 
 ## ECAI 2014 Paper Complete
 [OneDrive](https://1drv.ms/b/s!AgmDIEfscAJwi4Bl5wL8zeGaZwUAcA?e=QetLfa)
 
+[BaiduYun](https://pan.baidu.com/s/1Sk8FtOOnhamPbej_KzOr0Q): password = phw9
+
 ## ECAI 2012 Paper Complete
 [OneDrive](https://1drv.ms/b/s!AgmDIEfscAJwi4BipB82aSf4zpjLsg?e=GdT9oq)
+
+[BaiduYun](https://pan.baidu.com/s/19HL0uHqNwGCuMdy1Vasfbg): password = 768i
 
 ## ECAI 2010 Paper Complete
 [OneDrive](https://1drv.ms/b/s!AgmDIEfscAJwi4Bj2TIAUdvIrLulMw?e=hIMFJ9)
 
+[BaiduYun](https://pan.baidu.com/s/1S9-nQVdeirugr87q04Pa_Q): password = czu8
+
 ## ECAI 2008 Paper Complete
 [OneDrive](https://1drv.ms/b/s!AgmDIEfscAJwi4Bgv0y4uRIta2h_iA?e=fCKXhH)
 
+[BaiduYun](https://pan.baidu.com/s/12m73vOpOe2AlpPtIAHxq6Q): password = vy9l
+
 ## ECAI 2006 Paper Complete
 [OneDrive](https://1drv.ms/b/s!AgmDIEfscAJwi4BhilnOjfFWXUUZVw?e=9gHrU5)
+
+[BaiduYun](https://pan.baidu.com/s/19qW4DqpI53wzLiL8IEizug): password = ggjh
+

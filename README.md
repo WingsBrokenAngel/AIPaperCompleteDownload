@@ -35,6 +35,7 @@
 [BaiduYun](https://pan.baidu.com/s/1xvSJ4M9rSl8rW2ymkQ8kdw): password = t5m3
 
 ## CVPR 2014 Paper Complete
+[OneDrive](https://1drv.ms/u/s!AgmDIEfscAJwi4BfaR7U_bnljb9pFg?e=fVTga3)
 
 [BaiduYun](https://pan.baidu.com/s/1Wb9UjIdQOr4oJtNGpNWSxw): password = hcwg
 

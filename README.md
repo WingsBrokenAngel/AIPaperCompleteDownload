@@ -30,12 +30,11 @@
 [BaiduYun](https://pan.baidu.com/s/1n-BKVHUH0j4lBHcouRChIg): password = j5rn
 
 ## CVPR 2015 Paper Complete
-[OneDrive](https://1drv.ms/u/s!AgmDIEfscAJwi4Bb2r_DzoY33CApLw?e=CScwpk)
+[OneDrive](https://1drv.ms/u/s!AgmDIEfscAJwi4BepcH0Pl7x7mRc9g?e=RxCefb)
 
 [BaiduYun](https://pan.baidu.com/s/1xvSJ4M9rSl8rW2ymkQ8kdw): password = t5m3
 
 ## CVPR 2014 Paper Complete
-[OneDrive](https://1drv.ms/u/s!AgmDIEfscAJwi4BepcH0Pl7x7mRc9g?e=RxCefb)
 
 [BaiduYun](https://pan.baidu.com/s/1Wb9UjIdQOr4oJtNGpNWSxw): password = hcwg
 

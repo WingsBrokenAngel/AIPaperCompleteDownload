@@ -39,6 +39,7 @@
 [BaiduYun](https://pan.baidu.com/s/1Wb9UjIdQOr4oJtNGpNWSxw): password = hcwg
 
 ## CVPR 2013 Paper Complete
+[OneDrive](https://1drv.ms/u/s!AgmDIEfscAJwi4BXYK3Y7kW1ukyIrQ?e=TJHCLf)
 
 [BaiduYun](https://pan.baidu.com/s/19IF8khDpXvdlY1rpLGCSoA): password = 5kjw
 
@@ -61,3 +62,7 @@
 [OneDrive](https://1drv.ms/u/s!AgmDIEfscAJwi4BaosGHdUD3q8M7tg?e=DrhnOC)
 
 [BaiduYun](https://pan.baidu.com/s/1KLQKLBiDaqRZpsR6MuYMPQ): password = 4gxw
+
+## ECCV 2018 Paper Complete
+
+[BaiduYun](https://pan.baidu.com/s/1FOS4YCPc37aBkFKSK64_-w): password = mcmj 

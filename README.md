@@ -69,6 +69,21 @@
 
 [BaiduYun](https://pan.baidu.com/s/1FOS4YCPc37aBkFKSK64_-w): password = mcmj 
 
+## NeurIPS 2017 Paper Complete
+[OneDrive](https://1drv.ms/u/s!AgmDIEfscAJwi4xw4ak6nMkhBSVQ7Q?e=yKKGSK)
+
+[BaiduYun](https://pan.baidu.com/s/1xgB1q4qfo1OlVvzck6BzhQ): password = 80gb 
+
+## NeurIPS 2016 Paper Complete
+[OneDrive](https://1drv.ms/u/s!AgmDIEfscAJwi4xvznvJdkJha-86Tg?e=iazRaX)
+
+[BaiduYun](https://pan.baidu.com/s/1GsmqFUsPf8qSI7lu67AeYw): password = 1rd8 
+
+## NeurIPS 2015 Paper Complete
+[OneDrive](https://1drv.ms/u/s!AgmDIEfscAJwi4xudTErjo7ymhFTgw?e=PHvsLR)
+
+[BaiduYun](https://pan.baidu.com/s/1LVfYrskuzSv5X_nFYkMq9w): password = e8f8 
+
 ## ECAI 2020 Paper Complete
 [OneDrive](https://1drv.ms/b/s!AgmDIEfscAJwi4Bmn0-it7RbzlpGyQ?e=j9dlb3)
 

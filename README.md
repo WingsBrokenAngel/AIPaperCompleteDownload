@@ -69,6 +69,21 @@
 
 [BaiduYun](https://pan.baidu.com/s/1FOS4YCPc37aBkFKSK64_-w): password = mcmj 
 
+## NeurIPS 2020 Paper Complete
+[OneDrive](###)
+
+[BaiduYun](https://pan.baidu.com/s/19hTMxoGcS79uuBaK0auaYw): password = m71s 
+
+## NeurIPS 2019 Paper Complete
+[OneDrive](###)
+
+[BaiduYun](https://pan.baidu.com/s/1_85eiPrGT75RYXkMZY_Obg): password = orlf 
+
+## NeurIPS 2018 Paper Complete
+[OneDrive](###)
+
+[BaiduYun](https://pan.baidu.com/s/1YeCIs-VAg0Xw-1EWW-QN1A): password = byxm 
+
 ## NeurIPS 2017 Paper Complete
 [OneDrive](https://1drv.ms/u/s!AgmDIEfscAJwi4xw4ak6nMkhBSVQ7Q?e=yKKGSK)
 
@@ -83,6 +98,41 @@
 [OneDrive](https://1drv.ms/u/s!AgmDIEfscAJwi4xudTErjo7ymhFTgw?e=PHvsLR)
 
 [BaiduYun](https://pan.baidu.com/s/1LVfYrskuzSv5X_nFYkMq9w): password = e8f8 
+
+## NeurIPS 2014 Paper Complete
+[OneDrive](https://1drv.ms/u/s!AgmDIEfscAJwi4x1OE6FVMiJ2zlGsw?e=zy6urA)
+
+[BaiduYun](https://pan.baidu.com/s/1abMGQdfjaDwKslQNrKYqNA): password = t4y0 
+
+## NeurIPS 2013 Paper Complete
+[OneDrive](https://1drv.ms/u/s!AgmDIEfscAJwi4xyt3EuQIo4w6Wr5A?e=rq80Jk)
+
+[BaiduYun](https://pan.baidu.com/s/1N9SR6eaCSkGu8h8QY4xsdw): password = r49x 
+
+## NeurIPS 2012 Paper Complete
+[OneDrive](https://1drv.ms/u/s!AgmDIEfscAJwi4x2jC9irPBdWhmf-w?e=nFbUJ5)
+
+[BaiduYun](https://pan.baidu.com/s/1riK193vcap4grWCb0GBagQ): password = 1jiz 
+
+## NeurIPS 2011 Paper Complete
+[OneDrive](https://1drv.ms/u/s!AgmDIEfscAJwi4x0ISWwAfwE-I9Wzg?e=FuwuSb)
+
+[BaiduYun](https://pan.baidu.com/s/1BHaFXsyuDx_8JME2WOHDhA): password = k316 
+
+## NeurIPS 2010 Paper Complete
+[OneDrive](https://1drv.ms/u/s!AgmDIEfscAJwi4x3cXEYEPv7FNpBgA?e=aQ5Eny)
+
+[BaiduYun](https://pan.baidu.com/s/1CZK8Q-36j4ne3uj7ZrktuQ): password = l6e6 
+
+## NeurIPS 2009 Paper Complete
+[OneDrive](https://1drv.ms/u/s!AgmDIEfscAJwi4xzUHXjlcEmSrSIOg?e=98ZYNK)
+
+[BaiduYun](https://pan.baidu.com/s/1YiKV_2TAaIA4CniMASgk_A): password = ogr7 
+
+## NeurIPS 2008 Paper Complete
+[OneDrive](https://1drv.ms/u/s!AgmDIEfscAJwi4xxkVtoFbC2cFcL8A?e=uYhEM5)
+
+[BaiduYun](https://pan.baidu.com/s/1X9lzGVGdIAJDdXQZ4VpUVw): password = nlnt 
 
 ## ECAI 2020 Paper Complete
 [OneDrive](https://1drv.ms/b/s!AgmDIEfscAJwi4Bmn0-it7RbzlpGyQ?e=j9dlb3)

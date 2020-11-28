@@ -1,4 +1,4 @@
-# AIPaperCompleteDownload
+# AI Conference Paper Full Download
 
 ## CVPR 2020 Paper Complete
 [GoogleDrive](https://drive.google.com/file/d/1hilCYDMMePccnW1TMdZR2SG4q6jYplsf/view?usp=sharing)

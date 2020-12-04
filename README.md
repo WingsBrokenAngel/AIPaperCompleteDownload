@@ -79,6 +79,69 @@
 ## NeurIPS 2008 Paper Complete
 [OneDrive](https://1drv.ms/u/s!AgmDIEfscAJwi4xxkVtoFbC2cFcL8A?e=uYhEM5) | [BaiduYun](https://pan.baidu.com/s/1X9lzGVGdIAJDdXQZ4VpUVw): password = nlnt 
 
+## NeurIPS 2007 Paper Complete
+[OneDrive](https://1drv.ms/u/s!AgmDIEfscAJwi40_8wsX8KcWvU-e7g?e=vae5U9) | [BaiduYun](https://pan.baidu.com/s/1N79F455NsLTxcRBktz1jhA): password = sttg
+
+## NeurIPS 2006 Paper Complete
+[OneDrive](https://1drv.ms/u/s!AgmDIEfscAJwi40-Sjcbn0A_Fg9nbQ?e=hJH0WE) | [BaiduYun](https://pan.baidu.com/s/1RnPaPv_JlnGsYTrrq-u8gw): password = lw19
+
+## NeurIPS 2005 Paper Complete
+[OneDrive](https://1drv.ms/u/s!AgmDIEfscAJwi406t2LM8jL9AhZVgw?e=SxvDAO) | [BaiduYun](https://pan.baidu.com/s/1tAlkMnoxbUvdZJwexfUXMQ): password = sin8
+
+## NeurIPS 2004 Paper Complete
+[OneDrive](https://1drv.ms/u/s!AgmDIEfscAJwi407xriLi_M0LJzR4Q?e=uA7ZmX) | [BaiduYun](https://pan.baidu.com/s/1Iz2UqX38pwnqthFr3tTd1Q): password = 1312
+
+## NeurIPS 2003 Paper Complete
+[OneDrive](https://1drv.ms/u/s!AgmDIEfscAJwi404O9Sh6qguqn3YvQ?e=mfiX09) | [BaiduYun](https://pan.baidu.com/s/1W_SLp54OwwToaKn4Wqqicw): password = v2un
+
+## NeurIPS 2002 Paper Complete
+[OneDrive](https://1drv.ms/u/s!AgmDIEfscAJwi402bGI7kVPrfNk9WQ?e=5xp1eR) | [BaiduYun](https://pan.baidu.com/s/1ZLg-mEQsfJlCiN7ojjTycg): password = v1oz
+
+## NeurIPS 2001 Paper Complete
+[OneDrive](https://1drv.ms/u/s!AgmDIEfscAJwi405Dna6VKubvwHENA?e=I6iHVb) | [BaiduYun](https://pan.baidu.com/s/1g2uVGLf1aNib5skkdMgUKA): password = t1fu
+
+## NeurIPS 2000 Paper Complete
+[OneDrive](https://1drv.ms/u/s!AgmDIEfscAJwi409_pVp8VlVNYDh9A?e=jyfTaf) | [BaiduYun](https://pan.baidu.com/s/1YAQ33P-tTBUesj_keEoT1w): password = 1exj
+
+## NeurIPS 1999 Paper Complete
+[OneDrive](https://1drv.ms/u/s!AgmDIEfscAJwi408aLc5vjt-tLzcKA?e=mTPDDv) | [BaiduYun](https://pan.baidu.com/s/1jPnGCqwY488GAlSYMMN6kA): password = tjts
+
+## NeurIPS 1998 Paper Complete
+[OneDrive](https://1drv.ms/u/s!AgmDIEfscAJwi403cR1PXvGWVK5vrQ?e=c5gpV6) | [BaiduYun](https://pan.baidu.com/s/1M8uHwCEZl-DYShLOlEozOQ): password = sclx
+
+## NeurIPS 1997 Paper Complete
+[OneDrive](https://1drv.ms/u/s!AgmDIEfscAJwi40xzJfBjQDB5EkdgA?e=Pqiwwq) | [BaiduYun](https://pan.baidu.com/s/1T1r3Q9xaZBxX_sl9z-y1nQ): password = gay5
+
+## NeurIPS 1996 Paper Complete
+[OneDrive](https://1drv.ms/u/s!AgmDIEfscAJwi40zsUrQk96Rb5W-yg?e=geJhdD) | [BaiduYun](https://pan.baidu.com/s/12O5BLgkgqqSz2lYnUMgVhg): password = 7gwo
+
+## NeurIPS 1995 Paper Complete
+[OneDrive](https://1drv.ms/u/s!AgmDIEfscAJwi400Zasm5sJPV-bmqQ?e=KyOeBT) | [BaiduYun](https://pan.baidu.com/s/1I3egVg24EaRROfTUFe9Zhw): password = ga58
+
+## NeurIPS 1994 Paper Complete
+[OneDrive](https://1drv.ms/u/s!AgmDIEfscAJwi40wp23CWg9eAf1X2A?e=8tD946) | [BaiduYun](https://pan.baidu.com/s/19N8rK26Z3_f6CM23m1CsAg): password = 0rs9
+
+## NeurIPS 1993 Paper Complete
+[OneDrive](https://1drv.ms/u/s!AgmDIEfscAJwi401vLyLDzVirl4U0w?e=wh9DF4) | [BaiduYun](https://pan.baidu.com/s/1d52XqRO_ejS-98rCCak0Nw): password = tuf8
+
+## NeurIPS 1992 Paper Complete
+[OneDrive](https://1drv.ms/u/s!AgmDIEfscAJwi40y83jqdj7XpExO2A?e=KRGJKU) | [BaiduYun](https://pan.baidu.com/s/1aqZYQopHb4RhQOdJLcR_vA): password = u4o1
+
+## NeurIPS 1991 Paper Complete
+[OneDrive](https://1drv.ms/u/s!AgmDIEfscAJwi41A2B8WWPeyAdvTyA?e=FAaKIa) | [BaiduYun](https://pan.baidu.com/s/1r3usUY8oQ_J-DRHt3Anxwg): password = xnst
+
+## NeurIPS 1990 Paper Complete
+[OneDrive](https://1drv.ms/u/s!AgmDIEfscAJwi41DQktriweSPx39tw?e=eJe97W) | [BaiduYun](https://pan.baidu.com/s/1Efb4VstJoUKVjrt06vV5yg): password = 3z4v
+
+## NeurIPS 1989 Paper Complete
+[OneDrive](https://1drv.ms/u/s!AgmDIEfscAJwi41Bs93ay1vQz2MLng?e=Gv7uiS) | [BaiduYun](https://pan.baidu.com/s/1xYCLdH_Jls9fnT0MSlwR6Q): password = ezra
+
+## NeurIPS 1988 Paper Complete
+[OneDrive](https://1drv.ms/u/s!AgmDIEfscAJwi41ESRr9DXOGsNjWTA?e=g8Nxvu) | [BaiduYun](https://pan.baidu.com/s/17Vl6lCaDDLLKCyVBIIhGew): password = ojwv
+
+## NeurIPS 1987 Paper Complete
+[OneDrive](https://1drv.ms/u/s!AgmDIEfscAJwi41CEgCxq8t9TjevpA?e=yBBKqh) | [BaiduYun](https://pan.baidu.com/s/16i5Ptie8to5IEZp5w5E7YA): password = gbau
+
 ## ECAI 2020 Paper Complete
 [OneDrive](https://1drv.ms/b/s!AgmDIEfscAJwi4Bmn0-it7RbzlpGyQ?e=j9dlb3) | [BaiduYun](https://pan.baidu.com/s/1PAC0jP2-oBvMok65fzIFJg): password = q9m7
 

@@ -146,6 +146,8 @@
 [OneDrive](https://1drv.ms/u/s!AgmDIEfscAJwi41CEgCxq8t9TjevpA?e=yBBKqh) | [BaiduYun](https://pan.baidu.com/s/16i5Ptie8to5IEZp5w5E7YA): password = gbau
 
 ## AAAI
+### AAAI 2020 Paper Complete
+[OneDrive](https://1drv.ms/u/s!AgmDIEfscAJwi41M1pYmHRIwBJORtg?e=W3CyzD) | [BaiduYun](https://pan.baidu.com/s/1rNGXFI4yOtZ1mgCu56dbFA): password = a18m
 ### AAAI 2019 Paper Complete
 [OneDrive](https://1drv.ms/u/s!AgmDIEfscAJwi41IlQf49cvwZYhqcQ?e=WpfxAs) | [BaiduYun](https://pan.baidu.com/s/1xDTau3VFsHJGBTM3B8MghA): password = 3cd8
 

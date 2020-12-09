@@ -150,6 +150,8 @@
 [OneDrive](https://1drv.ms/u/s!AgmDIEfscAJwi41M1pYmHRIwBJORtg?e=W3CyzD) | [BaiduYun](https://pan.baidu.com/s/1rNGXFI4yOtZ1mgCu56dbFA): password = a18m
 ### AAAI 2019 Paper Complete
 [OneDrive](https://1drv.ms/u/s!AgmDIEfscAJwi41IlQf49cvwZYhqcQ?e=WpfxAs) | [BaiduYun](https://pan.baidu.com/s/1xDTau3VFsHJGBTM3B8MghA): password = 3cd8
+### AAAI 2018 Paper Complete
+[OneDrive](https://1drv.ms/u/s!AgmDIEfscAJwi41NNPnTbtWWKQaePA?e=dO8EBj) | [BaiduYun](https://pan.baidu.com/s/1IZC5ieArR1fOigwdrbc0OQ): password = zyvc
 
 ## ECAI
 ### ECAI 2020 Paper Complete

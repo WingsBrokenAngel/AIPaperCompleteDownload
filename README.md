@@ -1,5 +1,8 @@
 
 # AI Conference Paper Full Download
+![Forks](https://img.shields.io/github/forks/WingsBrokenAngel/AIPaperCompleteDownload) ![Stars](https://img.shields.io/github/stars/WingsBrokenAngel/AIPaperCompleteDownload
+) ![Issue](https://img.shields.io/github/issues/WingsBrokenAngel/AIPaperCompleteDownload
+)
 ## CVPR
 ### CVPR 2020 Paper Complete
 [GoogleDrive](https://drive.google.com/file/d/1hilCYDMMePccnW1TMdZR2SG4q6jYplsf/view?usp=sharing) | [OneDrive](https://1drv.ms/u/s!AgmDIEfscAJwi4BR6WkjtdU_IpJJPQ?e=ItNAfY) | [BaiduYun](https://pan.baidu.com/s/1Wx11PbQ9ujBdanCCTAF7zQ): password = 9hwf

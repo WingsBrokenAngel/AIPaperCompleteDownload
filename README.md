@@ -4,6 +4,8 @@
 ) ![Issue](https://img.shields.io/github/issues/WingsBrokenAngel/AIPaperCompleteDownload
 )
 ## CVPR
+- CVPR 2021 Papers - [OneDrive](https://1drv.ms/u/s!AgmDIEfscAJwi5QhtTu-f4Gx61X5Ag?e=OfPP6J)
+
 - CVPR 2020 Papers - [GoogleDrive](https://drive.google.com/file/d/1hilCYDMMePccnW1TMdZR2SG4q6jYplsf/view?usp=sharing) | [OneDrive](https://1drv.ms/u/s!AgmDIEfscAJwi4BR6WkjtdU_IpJJPQ?e=ItNAfY) | [BaiduYun](https://pan.baidu.com/s/1Wx11PbQ9ujBdanCCTAF7zQ): password = 9hwf
 
 - CVPR 2019 Papers - [GoogleDrive](https://drive.google.com/file/d/1uAspzkZUTkuxKsVthL_DZ3sLWRT-5brX/view?usp=sharing) | [OneDrive](https://1drv.ms/u/s!AgmDIEfscAJwi4BSIxj76bQdAXLglA?e=2LXRkY) | [BaiduYun](https://pan.baidu.com/s/1NPILnEdZXafB7sjpL4ZHLg): password = xcj8 

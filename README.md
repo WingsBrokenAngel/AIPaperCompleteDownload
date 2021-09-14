@@ -49,6 +49,8 @@
 - ICML 2013 Paper - [OneDrive](https://1drv.ms/u/s!AgmDIEfscAJwi41p1_AbqmtfCe6bkA?e=XEyP2B) | [BaiduYun](https://pan.baidu.com/s/1tjfJSIz5TwaXE_8xhK6fuA): password = 0a3t
 
 ## ECCV
+- ECCV 2020 Paper - [OneDrive](https://1drv.ms/u/s!AgmDIEfscAJwi5Qim3JkH-BkYr9RaQ?e=Gpigj0)
+  
 - ECCV 2018 Paper - [OneDrive](https://1drv.ms/u/s!AgmDIEfscAJwi4BdZsL4xG_fnXoISw?e=a5pGHf) | [BaiduYun](https://pan.baidu.com/s/1FOS4YCPc37aBkFKSK64_-w): password = mcmj 
 
 ## NeurIPS

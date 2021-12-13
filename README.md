@@ -23,6 +23,8 @@
 - CVPR 2013 Papers - [OneDrive](https://1drv.ms/u/s!AgmDIEfscAJwi4BXYK3Y7kW1ukyIrQ?e=TJHCLf) | [BaiduYun](https://pan.baidu.com/s/19IF8khDpXvdlY1rpLGCSoA): password = 5kjw
 
 ## ICCV
+- ICCV 2021 Paper - [OneDrive](https://1drv.ms/u/s!AgmDIEfscAJwi5l0za3vmzPwTMBP7A?e=q5Vsaa)
+
 - ICCV 2019 Paper - [OneDrive](https://1drv.ms/u/s!AgmDIEfscAJwi4BW5mtz_HjGmrsjuA?e=ptyfE0) | [BaiduYun](https://pan.baidu.com/s/1RVoQL3hyQYVEIw86eMZRIQ): password = qxep
 
 - ICCV 2017 Paper - [OneDrive](https://1drv.ms/u/s!AgmDIEfscAJwi4BZGGksKAV-mwPLsw?e=Fxhq9X) | [BaiduYun](https://pan.baidu.com/s/1qo0LQvtW9wJPBXjhSc5pCg): password = wia5

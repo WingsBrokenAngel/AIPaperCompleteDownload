@@ -56,6 +56,8 @@
 - ECCV 2018 Paper - [OneDrive](https://1drv.ms/u/s!AgmDIEfscAJwi4BdZsL4xG_fnXoISw?e=a5pGHf) | [BaiduYun](https://pan.baidu.com/s/1FOS4YCPc37aBkFKSK64_-w): password = mcmj 
 
 ## NeurIPS
+- NeurIPS 2021 Paper - [OneDrive](https://1drv.ms/u/s!AgmDIEfscAJwi5oci-omoq6ja4ePRQ?e=dVq6kA)
+
 - NeurIPS 2020 Paper - [OneDrive](https://1drv.ms/u/s!AgmDIEfscAJwi4x9szKhTqsQAWfoLQ?e=pqhK9L) | [BaiduYun](https://pan.baidu.com/s/19hTMxoGcS79uuBaK0auaYw): password = m71s 
 
 - NeurIPS 2019 Paper - [OneDrive](https://1drv.ms/u/s!AgmDIEfscAJwi4x8LZfsVZs1Rx62Pw?e=BmkB9R) | [BaiduYun](https://pan.baidu.com/s/1_85eiPrGT75RYXkMZY_Obg): password = orlf 

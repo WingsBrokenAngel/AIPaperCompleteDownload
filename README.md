@@ -127,6 +127,7 @@
 - NeurIPS 1987 Papers - [OneDrive](https://1drv.ms/u/s!AgmDIEfscAJwi41CEgCxq8t9TjevpA?e=yBBKqh) | [BaiduYun](https://pan.baidu.com/s/16i5Ptie8to5IEZp5w5E7YA): password = gbau
 
 ## AAAI
+- AAAI 2021 Papers - [OneDrive](https://1drv.ms/u/s!AgmDIEfscAJwi5oohlGT9UhkKFQDlw?e=4KaqbF)
 - AAAI 2020 Papers - [OneDrive](https://1drv.ms/u/s!AgmDIEfscAJwi41M1pYmHRIwBJORtg?e=W3CyzD) | [BaiduYun](https://pan.baidu.com/s/1rNGXFI4yOtZ1mgCu56dbFA): password = a18m
 - AAAI 2019 Papers - [OneDrive](https://1drv.ms/u/s!AgmDIEfscAJwi41IlQf49cvwZYhqcQ?e=WpfxAs) | [BaiduYun](https://pan.baidu.com/s/1xDTau3VFsHJGBTM3B8MghA): password = 3cd8
 - AAAI 2018 Papers - [OneDrive](https://1drv.ms/u/s!AgmDIEfscAJwi41NNPnTbtWWKQaePA?e=dO8EBj) | [BaiduYun](https://pan.baidu.com/s/1IZC5ieArR1fOigwdrbc0OQ): password = zyvc
